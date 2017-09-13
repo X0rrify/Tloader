@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tloader</string>
+    <string name="button_submit">Submit</string>
+    <string name="toast_select_items">Please select several items.</string>
+</resources>
